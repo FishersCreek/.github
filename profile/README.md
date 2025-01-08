@@ -1,11 +1,10 @@
-## Welcome to Fishers Creek International Church's Github 👋  
+### Welcome to Fishers Creek International Church's Github 👋  
  
-
 <a href="https://www.fisherscreek.net/" target="_blank">
 <img src="./logo.png" 
   alt="Fishers Creek International Church Logo" 
-  align="left" height="48">
-</a> <i>Loving God, Loving People</i><br/><br/>
+  align="left" height="30">
+</a><i>Loving God, Loving People</i><br/><br/>
 
 ### English speaking church in Gothenburg.
 We are a non-denominational church based in Göteborg,   
